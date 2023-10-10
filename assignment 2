@@ -1,0 +1,3 @@
+hr=eval(input("enter no.of hours:"))
+min = hr*60
+print("No.of minutes:",min)
