@@ -1,0 +1,9 @@
+sno = int(input("enter student number:"))
+name=input("enter student name")
+group = input("enter student group")
+s1 = int(input("subject1 marks:"))
+s2 =int(input("subject2 marks:"))
+s3 =int(input("subject3 marks:"))
+t=s1+s2+s3
+print("Total marks:",t)
+print("Average marks:",t/3)
